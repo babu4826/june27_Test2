@@ -17,6 +17,7 @@ public class ConditionalStatementsDemo {
 		}else {
 			System.out.println("I am working as Manager");
 		}
+		int x = 90;
 	}
 
 }
