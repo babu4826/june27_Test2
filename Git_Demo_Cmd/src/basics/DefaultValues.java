@@ -13,6 +13,7 @@ public class DefaultValues {
 
 	public static void main(String[] args) {
 
+		int y = 900;
 		System.out.println("value of course is "+course);
 		System.out.println("Default value for int data type variable is "+id);
 		System.out.println("Default value for long data type variable is "+mobile);
